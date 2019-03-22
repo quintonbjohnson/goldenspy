@@ -1,4 +1,4 @@
-GOLDENSPY
+# Goldenspy
 
 ![Goldenspy](http://i.imgur.com/Khw7wsx.png)
 
