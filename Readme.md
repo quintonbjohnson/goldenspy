@@ -27,9 +27,11 @@ A 	starts the game
 `sudo apt-get install build-essential`
 
 
+
 2 | Install [nin10kit](https://github.com/TricksterGuy/nin10kit#installation)
 
 `sudo apt-get install nin10kit`
+
 
 
 3 | Install [VBA-M](https://github.com/visualboyadvance-m/visualboyadvance-m)
