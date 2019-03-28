@@ -35,3 +35,8 @@ A 	starts the game
 
 
 3 | Install [VBA-M](https://github.com/visualboyadvance-m/visualboyadvance-m)
+`cd ~ && mkdir src && cd src
+git clone https://github.com/visualboyadvance-m/visualboyadvance-m.git
+cd visualboyadvance-m
+./installdeps`
+
